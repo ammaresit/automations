@@ -1,0 +1,10 @@
+D:\Workshop\Visual Studio\kantarSerial\kantarSerial\bin\Debug\kantarSerial.exe.config
+D:\Workshop\Visual Studio\kantarSerial\kantarSerial\bin\Debug\kantarSerial.exe
+D:\Workshop\Visual Studio\kantarSerial\kantarSerial\bin\Debug\kantarSerial.pdb
+D:\Workshop\Visual Studio\kantarSerial\kantarSerial\obj\Debug\kantarSerial.csprojAssemblyReference.cache
+D:\Workshop\Visual Studio\kantarSerial\kantarSerial\obj\Debug\kantarSerial.Form1.resources
+D:\Workshop\Visual Studio\kantarSerial\kantarSerial\obj\Debug\kantarSerial.Properties.Resources.resources
+D:\Workshop\Visual Studio\kantarSerial\kantarSerial\obj\Debug\kantarSerial.csproj.GenerateResource.cache
+D:\Workshop\Visual Studio\kantarSerial\kantarSerial\obj\Debug\kantarSerial.csproj.CoreCompileInputs.cache
+D:\Workshop\Visual Studio\kantarSerial\kantarSerial\obj\Debug\kantarSerial.exe
+D:\Workshop\Visual Studio\kantarSerial\kantarSerial\obj\Debug\kantarSerial.pdb

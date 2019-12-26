@@ -1,0 +1,12 @@
+D:\Workshop\Visual Studio\YazLabKantar\YazLabKantar\YazLabKantar\bin\Debug\YazLabKantar.exe.config
+D:\Workshop\Visual Studio\YazLabKantar\YazLabKantar\YazLabKantar\bin\Debug\YazLabKantar.exe
+D:\Workshop\Visual Studio\YazLabKantar\YazLabKantar\YazLabKantar\bin\Debug\YazLabKantar.pdb
+D:\Workshop\Visual Studio\YazLabKantar\YazLabKantar\YazLabKantar\obj\Debug\YazLabKantar.csprojAssemblyReference.cache
+D:\Workshop\Visual Studio\YazLabKantar\YazLabKantar\YazLabKantar\obj\Debug\YazLabKantar.Properties.Resources.resources
+D:\Workshop\Visual Studio\YazLabKantar\YazLabKantar\YazLabKantar\obj\Debug\YazLabKantar.csproj.GenerateResource.cache
+D:\Workshop\Visual Studio\YazLabKantar\YazLabKantar\YazLabKantar\obj\Debug\YazLabKantar.csproj.CoreCompileInputs.cache
+D:\Workshop\Visual Studio\YazLabKantar\YazLabKantar\YazLabKantar\obj\Debug\YazLabKantar.exe
+D:\Workshop\Visual Studio\YazLabKantar\YazLabKantar\YazLabKantar\obj\Debug\YazLabKantar.pdb
+D:\Workshop\Visual Studio\YazLabKantar\YazLabKantar\YazLabKantar\obj\Debug\YazLabKantar.formMain.resources
+D:\Workshop\Visual Studio\YazLabKantar\YazLabKantar\YazLabKantar\obj\Debug\YazLabKantar.formLogin.resources
+D:\Workshop\Visual Studio\YazLabKantar\YazLabKantar\YazLabKantar\obj\Debug\YazLabKantar.formReport.resources
